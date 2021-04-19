@@ -1,4 +1,4 @@
-package com.languagexx.simplenotes.persistence
+package com.example.androiddvv.data
 
 import android.os.Parcel
 import android.os.Parcelable
