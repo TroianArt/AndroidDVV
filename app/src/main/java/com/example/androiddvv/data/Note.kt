@@ -1,5 +1,4 @@
 package com.example.androiddvv.data
-
 import android.os.Parcel
 import android.os.Parcelable
 import androidx.room.Entity
